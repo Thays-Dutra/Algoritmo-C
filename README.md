@@ -1,11 +1,11 @@
 🌱💻 Controle de Estoque - Plantas
 
-Projeto em C criado com o objetivo de praticar lógica de programação,
-simulando um sistema básico de controle de estoque.
+ Projeto em C criado com o objetivo de praticar lógica de programação,
+ simulando um sistema básico de controle de estoque.
 
 🧠 Objetivo  
-mFortalecer o raciocínio lógico utilizando estruturas
-como `struct`, `arrays`, `condicionais` e `laços de repetição`.
+ Fortalecer o raciocínio lógico utilizando estruturas
+ como `struct`, `arrays`, `condicionais` e `laços de repetição`.
 
 🔧 Funcionalidades  
 - Cadastrar novas plantas  
